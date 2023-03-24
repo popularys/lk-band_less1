@@ -34,7 +34,7 @@ function getBook(book, result) {
     result(book);
 }
 
-getBook("Исскусство программирования", function(b) {
+getBook("Искусство программирования", function(b) {
     console.log(b + " is good!");
 });
 
@@ -48,7 +48,7 @@ getBook("Исскусство программирования", function(b) {
             })
         })
     })
-    console.log("4 books is ready")
+    console.log("4 books are ready")
 */
 
 /*
